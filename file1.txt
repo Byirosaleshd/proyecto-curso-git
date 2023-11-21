@@ -1,1 +1,1 @@
-Este fue el primer archivo creado por este Curso
+Curso de git y github por sergie code
